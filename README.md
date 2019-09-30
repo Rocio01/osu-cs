@@ -189,7 +189,6 @@ Courses | School | Duration | Effort | Prerequisites
 
 Courses | School |Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--: | :--:
-
 [Electricity and Magnetism, Part 1](https://www.edx.org/course/electricity-magnetism-part-1-ricex-phys102-1x-0)| Rice <sup>1</sup> | 7 weeks | 8-10 hours/week | calculus, basic mechanics
 [Electricity and Magnetism, Part 2](https://www.edx.org/course/electricity-magnetism-part-2-ricex-phys102-2x-0) | Rice | 7 weeks | 8-10 hours/week | Electricity and Magnetism, Part 1
 [Computation Structures 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0) | MIT | 10 weeks | 6 hours/week | electricity, magnetism
