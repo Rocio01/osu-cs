@@ -164,10 +164,10 @@ Courses | School | Duration | Effort | Prerequisites
 `probability theory`
 `and more`
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) | 13 weeks | 12 hours/week | MIT Calculus 1C
-[Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) | 18 weeks | 12 hours/week | Multivariable Calculus
+Courses | School | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--: | :--:
+[Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) | MIT | 13 weeks | 12 hours/week | MIT Calculus 1C
+[Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) | MIT | 18 weeks | 12 hours/week | Multivariable Calculus
 
 ### Advanced systems
 
@@ -187,15 +187,14 @@ Courses | Duration | Effort | Prerequisites
 `system call interface`
 `and more`
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Reliable Distributed Systems, Part 1](https://www.edx.org/course/reliable-distributed-algorithms-part-1-kthx-id2203-1x) | 5 weeks | 5 hours/week | Scala, intermediate CS
-[Reliable Distributed Systems, Part 2](https://www.edx.org/course/reliable-distributed-algorithms-part-2-kthx-id2203-2x) | 5 weeks | 5 hours/week | Part 1
-[Electricity and Magnetism, Part 1](https://www.edx.org/course/electricity-magnetism-part-1-ricex-phys102-1x-0)<sup>1</sup> | 7 weeks | 8-10 hours/week | calculus, basic mechanics
-[Electricity and Magnetism, Part 2](https://www.edx.org/course/electricity-magnetism-part-2-ricex-phys102-2x-0) | 7 weeks | 8-10 hours/week | Electricity and Magnetism, Part 1
-[Computation Structures 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0) | 10 weeks | 6 hours/week | electricity, magnetism
-[Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x) | 10 weeks | 6 hours/week | Computation Structures 1
-[Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0) | 10 weeks | 6 hours/week | Computation Structures 2
+Courses | School |Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--: | :--:
+
+[Electricity and Magnetism, Part 1](https://www.edx.org/course/electricity-magnetism-part-1-ricex-phys102-1x-0)| Rice <sup>1</sup> | 7 weeks | 8-10 hours/week | calculus, basic mechanics
+[Electricity and Magnetism, Part 2](https://www.edx.org/course/electricity-magnetism-part-2-ricex-phys102-2x-0) | Rice | 7 weeks | 8-10 hours/week | Electricity and Magnetism, Part 1
+[Computation Structures 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0) | MIT | 10 weeks | 6 hours/week | electricity, magnetism
+[Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x) | MIT | 10 weeks | 6 hours/week | Computation Structures 1
+[Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0) | MIT | 10 weeks | 6 hours/week | Computation Structures 2
 
 **<sup>1</sup> Note**:
 These courses assume knowledge of basic physics.
@@ -222,13 +221,13 @@ If you are struggling, you can find a physics MOOC or utilize the materials from
 `game trees`
 `and more`
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Introduction to Logic](https://www.coursera.org/learn/logic-introduction) | 10 weeks | 4-8 hours/week | set theory
-[Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+SelfPaced/about) | 7 weeks | 10 hours/week | discrete mathematics, logic, algorithms
-[Computational Geometry](https://www.edx.org/course/computational-geometry-tsinghuax-70240183x) | 16 weeks | 8 hours/week | algorithms, C++
-[Introduction to Formal Concept Analysis](https://www.coursera.org/learn/formal-concept-analysis) | 6 weeks | 4-6 hours/week | logic, probability
-[Game Theory](https://www.coursera.org/learn/game-theory-1) | 8 weeks | x hours/week | mathematical thinking, probability, calculus
+Courses| School | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--: | :--:
+[Introduction to Logic](https://www.coursera.org/learn/logic-introduction)| Stanford | 10 weeks | 4-8 hours/week | set theory
+[Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+SelfPaced/about) | Stanford| 7 weeks | 10 hours/week | discrete mathematics, logic, algorithms
+[Computational Geometry](https://www.edx.org/course/computational-geometry-tsinghuax-70240183x)| TsingHau University | 16 weeks | 8 hours/week | algorithms, C++
+[Introduction to Formal Concept Analysis](https://www.coursera.org/learn/formal-concept-analysis) | NRU o HE| 6 weeks | 4-6 hours/week | logic, probability
+[Game Theory](https://www.coursera.org/learn/game-theory-1) | Stanford | 8 weeks | x hours/week | mathematical thinking, probability, calculus
 
 ### Advanced applications
 
@@ -237,20 +236,20 @@ Depending on the course, you may be able to utilize the Capstone as your Final P
 Note that doing a Specialization with the Capstone at the end always costs money.
 So if you don't wish to spend money or use the Capstone as your Final, it may be possible to take the courses in the Specialization for free by manually searching for them, but not all allow this.
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Robotics (Specialization)](https://www.coursera.org/specializations/robotics) | 26 weeks | 2-5 hours/week | linear algebra, calculus, programming, probability
-[Data Mining (Specialization)](https://www.coursera.org/specializations/data-mining) | 30 weeks | 2-5 hours/week | machine learning
-[Big Data (Specialization)](https://www.coursera.org/specializations/big-data) | 30 weeks | 3-5 hours/week | none
-[Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | 30 weeks | 1-5 hours/week | strong programming
-[Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | 30 weeks | 2-6 hours/week | C++ programming
-[Full Stack Web Development (Specialization)](https://www.coursera.org/specializations/full-stack) | 27 weeks | 2-6 hours/week | programming, databases
-[Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week | none
-[Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 29 weeks | 4-5 hours/week | One year programming experience
+Courses | School |Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--: | :--:
+[Robotics (Specialization)](https://www.coursera.org/specializations/robotics)| Coursera | 26 weeks | 2-5 hours/week | linear algebra, calculus, programming, probability
+[Data Mining (Specialization)](https://www.coursera.org/specializations/data-mining) |Coursera| 30 weeks | 2-5 hours/week | machine learning
+[Big Data (Specialization)](https://www.coursera.org/specializations/big-data) |Coursera | 30 weeks | 3-5 hours/week | none
+[Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | Coursera| 30 weeks | 1-5 hours/week | strong programming
+[Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | Coursera| 30 weeks | 2-6 hours/week | C++ programming
+[Full Stack Web Development (Specialization)](https://www.coursera.org/specializations/full-stack) |Coursera| 27 weeks | 2-6 hours/week | programming, databases
+[Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | Coursera| 43 weeks | 1-6 hours/week | none
+[Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | Coursera| 29 weeks | 4-5 hours/week | One year programming experience
 
 ## Final project
 
-The Open Sorve Computer Science Degree is **project-focused**.
+The Open Source Computer Science Degree is **project-focused**.
 You are encouraged to do the assignments and exams for each course, but what really matters is whether you can *use* your knowledge to solve a real world problem.
 
 After you've gotten through all of Core CS and the parts of Advanced CS relevant to you, you should think about a problem that you can solve using the knowledge you've acquired.
@@ -264,14 +263,6 @@ Another option is using the Capstone project from taking one of the Specializati
 whether or not this makes sense depends on the course, the project, and whether or not the course's Honor Code permits you to display your work publicly.
 In some cases, it may not be permitted;
 do **not** violate your course's Honor Code!
-
-
-### Which programming languages should I use?
-
-My friend, here is the best part of liberty!
-You can use **any** language that you want to complete the final project.
-
-The important thing is to **internalize** the core concepts and to be able to use them with whatever tool (programming language) that you wish.
 
 ## Pro CS
 
