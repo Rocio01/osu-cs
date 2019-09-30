@@ -64,6 +64,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
+[Introduction to Mathemetical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Stanford | 9 Weeks | 23 hours|
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | pre-calculus
 [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0) ([alt](http://ulaff.net/)) | 15 weeks | 8 hours/week | Essence of Linear Algebra
 ---
