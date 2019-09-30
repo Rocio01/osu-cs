@@ -122,7 +122,6 @@ Courses | School| Duration | Effort | Prerequisites
 [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x) | University of San Diego | 6 weeks | 12 hours/week | C++ or Java, linear algebra
 [Cryptography I](https://www.coursera.org/course/crypto)| Stanford | 6 weeks | 5-7 hours/week | linear algebra, probability
 [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | UBC | 6 weeks | 8-10 hours/week | Software Construction - Object-Oriented Design
-[Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx) | UBC | 6-7 weeks | 8-10 hours/week | Software Engineering: Introduction
 [Database Management Essentials](https://www.coursera.org/learn/database-management) | CU | 7 weeks | 4-6 hours/week | twice a month | basic programming & CS knowledge
 
 
