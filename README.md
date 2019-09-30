@@ -115,12 +115,16 @@ Courses | Duration | Effort | Prerequisites
 
 ## Applications
 
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
-[Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | UBCx | 6 weeks | 8-10 hours/week | self-paced | Java Programming: Build a Recommendation System
-[Machine Learning](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning) | Stanford | 11 weeks | 5-7 hours/week | twice a month | Linear Algebra - Foundations to Frontiers
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) | Stanford | 12 weeks | 8-12 hours/week | some programming, basic CS
+[Machine Learning](https://www.coursera.org/learn/machine-learning)| Stanford | 11 weeks | 4-6 hours/week | linear algebra
+[Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x) | University of San Diego | 6 weeks | 12 hours/week | C++ or Java, linear algebra
+[Cryptography I](https://www.coursera.org/course/crypto)| Stanford | 6 weeks | 5-7 hours/week | linear algebra, probability
+[Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | UBC | 6 weeks | 8-10 hours/week | Software Construction - Object-Oriented Design
+[Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx) | UBC | 6-7 weeks | 8-10 hours/week | Software Engineering: Introduction
 [Database Management Essentials](https://www.coursera.org/learn/database-management) | CU | 7 weeks | 4-6 hours/week | twice a month | basic programming & CS knowledge
-[Cryptography I ](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcrypto)| Stanford | 7 weeks | 5 hours/week | once a month | Linear Algebra - Foundations to Frontiers & Introduction to Probability and Data
+
 
 ## Unix
 
