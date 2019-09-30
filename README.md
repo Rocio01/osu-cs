@@ -1,18 +1,42 @@
-# The Open Source Computer Science Degree
+---
+#### NB This curriculum is my modified version of the [OSSU](https://github.com/ossu/computer-science) and [Open Source Computer Degree syllabus](https://github.com/ForrestKnight/open-source-cs) with extra MIT OCW EECS courses.
+---
+
+![The Open Source University (The OSU)](http://res.cloudinary.com/dwdu9ukwf/image/upload/v1569761151/osu/osu_6.svg)
+
+<h4 align="center">
+Standing on the shoulders of giants
+</h4>
+<p align="center"><em>
+Your path to a Open Source Computer Science Degree
+</em>
+</p>
 
 This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
 
+## Summary
+
+The OSU curriculum is a **complete education in computer science** using online materials initially based on the OSSU, MIT OCW and OSCS syllabi. As per the OSSU's mandate, <em>"The courses themselves are among the very best in the world, often coming from Harvard, Princeton, MIT, etc."</em> The aim being to take the best elements of these open source courses in order to provide the framework for a comprehensive 4-year undergraduate Computer Science Degree syllabus. 
+<br><br>Please note, this syllabus is largely forked from the OSSU and Forrest Knight OSCS syllabuses. I've taken what I consider to be the best elements of both and have added other courses from the MIT OCW courselist in alignment with my own interests i.e. I've added extra modules from the MIT OCW, pertinent to how I want to shape my own syllabus etc.  <br><br>I've also looked at the [6-3 MIT catalog](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) and the general MIT OCW [course list](https://ocw.mit.edu/courses/find-by-number/) and also this [list](http://catalog.mit.edu/subjects/6/) in order to put together a curriculum that reflects my interests and educational needs (hence a lot of the graduate courses towards the end of the syllabus). <br><br>One way to appraoch this OSU Computer Science Degree syllabus, which I highly recommend, is to do what I have done and use an existing open source syllabus (or that of the OSSU or OSCS) that satisfies the demands of a full degree, and create your own Open Source Degree Syllabus and tailor it to your own needs!
+Refer to [Course Info](./COURSEINFO.md) for general details on what is involved in the syllabus.
+
+## Introduction to Computer Science
+
+## Why study Computer Science?
+
+Title | Overview 
+:-- | :--: 
+[What Do computer Scientists Do](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-26-what-do-computer-scientists-do/) | (from lecture 26 that goes over what Computer Scientists do and  what careers CS students can go into.)
+[Intro lecture to Computer Science](https://www.youtube.com/watch?v=k6U-i4gXkLM) | MIT | (this is the inaugural lecture, with Prof Eric Grimson, of the 6.001 course that serves as a good introduction to studying CS if you just wanta quick overview of what to expect)
+
 ## Computer Science Basics
-
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none
+[Introduction to Computer Science and Programming using Python (Part 1)](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)) | MIT | 9 weeks | 15 hours/week | high school algebra
 [Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
-[Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)) | MIT OCW| 9 weeks | 15 hours/week | high school algebra
+
 
 ## Programming
 
