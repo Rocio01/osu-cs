@@ -115,9 +115,9 @@ Courses | Duration | Effort | Prerequisites
 
 ## Applications
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) | Stanford | 12 weeks | 8-12 hours/week | some programming, basic CS
+Courses | School| Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:| :--:
+[Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) | Stanford | 12 weeks | 8-12 hours/week | some programming, basic CS |
 [Machine Learning](https://www.coursera.org/learn/machine-learning)| Stanford | 11 weeks | 4-6 hours/week | linear algebra
 [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x) | University of San Diego | 6 weeks | 12 hours/week | C++ or Java, linear algebra
 [Cryptography I](https://www.coursera.org/course/crypto)| Stanford | 6 weeks | 5-7 hours/week | linear algebra, probability
