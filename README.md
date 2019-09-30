@@ -77,7 +77,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Introduction to Probability and Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprobability-intro) | Duke | 5 weeks | 5-7 hours/week | twice a month | none
 [Intro to Statistics ](https://www.udacity.com/course/intro-to-statistics--st101) | Udacity | 8 weeks | 5-7 hours/week | self-paced | none
 
-[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)<sup>**1**</sup> | 13 weeks | 5 hours/week | Calculus 1C
+[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)| MIT <sup>**1**</sup> | 13 weeks | 5 hours/week | Calculus 1C
 
 <sup>**1**</sup>: Students struggling with MIT Math for CS can consider taking the [Discrete Mathematics Specialization](https://www.coursera.org/specializations/discrete-mathematics) first.
 It is more interactive but less comprehensive, and it costs money to unlock full interactivity.
