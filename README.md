@@ -39,8 +39,8 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 
 ## CS50 Extension Courses
 
-Courses | Duration  | Prerequisites
-:-- | :--: | :--: 
+Courses |School | Duration  | Prerequisites
+:-- | :--: | :--: | :--: 
 [Beyond CS50](https://cs50.harvard.edu/college/beyond/)|Harvardx | 1 week/11 lectures |  CS50
 [CS50 Web Programming with Python and Javascript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)| Harvardx | 12 weeks |  CS50
 [CS50 Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)| 12 weeks |  CS50
