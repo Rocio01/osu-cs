@@ -46,9 +46,11 @@ Courses | Duration  | Prerequisites
 [CS50 Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)| 12 weeks |  CS50
 [CS50 Mobile Development with React-Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)| 1 week/11 lectures |  CS50
 
+
+## Programming
+
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-
 [Introduction to Computational thinking and data science (Part 2)](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)) | MIT | 9 weeks | 15 hours/week | high school algebra
 [Java Programming: Solving Problems with Software](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming)| Duke | 4 weeks | 4-8 hours/week | twice a month | none
 [Java Programming: Arrays, Lists, and Structured Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming-arrays-lists-data)| Duke | 4 weeks | 4-8 hours/week | twice a month | Java Programming: Solving Problems with Software
