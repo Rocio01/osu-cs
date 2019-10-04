@@ -39,12 +39,12 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 
 ## CS50 Extension Courses
 
-Courses |School | Duration  | Prerequisites
-:-- | :--: | :--: | :--: 
-[Beyond CS50](https://cs50.harvard.edu/college/beyond/)|Harvardx | 1 week/11 lectures |  CS50
-[CS50 Web Programming with Python and Javascript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)| Harvardx | 12 weeks |  CS50
-[CS50 Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)| 12 weeks |  CS50
-[CS50 Mobile Development with React-Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)|Harvardx |  1 week/11 lectures |  CS50
+Courses |School | Duration  | Effort | Prerequisites
+:-- | :--: | :--: | :--: | :--:
+[Beyond CS50](https://cs50.harvard.edu/college/beyond/)|Harvardx | 12 weeks | 11 lectures |  CS50
+[CS50 Web Programming with Python and Javascript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)| Harvardx | 12 weeks | 6-9 hours per week| CS50
+[CS50 Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)| Harvardx | 12 weeks | 6-9 hours per week | CS50
+[CS50 Mobile Development with React-Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)|Harvardx |  12 week/11 lectures | 6-9 hours per week | CS50
 
 
 ## Programming
