@@ -37,14 +37,14 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Introduction to Computer Science and Programming using Python (Part 1)](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)) | MIT | 9 weeks | 15 hours/week | high school algebra
 [Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
 
-## Harvard CS50 Extension Course
+## CS50 Extension Courses
 
 Courses | Duration  | Prerequisites
 :-- | :--: | :--: 
-[Beyond CS50](https://cs50.harvard.edu/college/beyond/)| 1 week/11 lectures |  CS50
-[CS50 Web Programming with Python and Javascript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)| 12 weeks |  CS50
+[Beyond CS50](https://cs50.harvard.edu/college/beyond/)|Harvardx | 1 week/11 lectures |  CS50
+[CS50 Web Programming with Python and Javascript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)| Harvardx | 12 weeks |  CS50
 [CS50 Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)| 12 weeks |  CS50
-[CS50 Mobile Development with React-Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)| 1 week/11 lectures |  CS50
+[CS50 Mobile Development with React-Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)|Harvardx |  1 week/11 lectures |  CS50
 
 
 ## Programming
