@@ -133,6 +133,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [The Unix Workbench](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix) | JHU | 4 weeks | 4 hours/week | once a month | none
 [Automated Software Testing](https://www.edx.org/course/automated-software-testing-unit-testing-coverage-criteria-and-design-for-testability) | TUDelft | 5 weeks | 3-5 hours per week | self-paced | none
 [UML Class Diagrams for Software Engineering](https://www.edx.org/course/uml-class-diagrams-for-software-engineering-2) | Ku Leuven | 3 weeks | 4-5 hours per week | self-paced | none
+[Kotlin for Java developers](https://www.coursera.org/learn/kotlin-for-java-developers/home/info) | Jetbrains | 19 hours | 7 hours per week | self-paced | Java basics 
 
 ## Advanced CS
 
