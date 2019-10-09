@@ -35,6 +35,8 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none
 [Introduction to Computer Science and Programming using Python (Part 1)](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)) | MIT | 9 weeks | 15 hours/week | high school algebra
+[Computational Thinking and problem solving](https://www.coursera.org/learn/computational-thinking-problem-solving/home/welcome)| Penn | 4 weeks  | 3-6 hours per week | self-paced | none
+
 
 ## CS50 Extension Courses
 
@@ -77,8 +79,6 @@ Courses | School| Duration | Effort | Frequency |  Prerequisites
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | YT  | - | - | - | pre-calculus
 [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0) ([alt](http://ulaff.net/)) | UT of Austin | 15 weeks | 8 hours/week | - | Essence of Linear Algebra
 [Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
-[Computational Thinking and problem solving](https://www.coursera.org/learn/computational-thinking-problem-solving/home/welcome)| Penn | 4 weeks  | 3-6 hours per week | self-paced | none
-
 ---
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
