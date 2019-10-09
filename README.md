@@ -137,6 +137,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Kotlin for Java developers](https://www.coursera.org/learn/kotlin-for-java-developers/home/info) | Jetbrains | 19 hours | 7 hours per week | self-paced | Java basics 
 [Building Scalable Java Microservices with Spring Boot and Spring Cloud](https://www.coursera.org/learn/google-cloud-java-spring/home/welcome) | Google Cloud | 15 hours | 6-8 hours per week | self-paced | Basic Java
 [Parallel, Concurrent, and Distributed Programming in Java Specialization](https://www.coursera.org/specializations/pcdp) | Rice | 2 months | 10 hours per week | self-paced | Basic Java
+[Data Science: Machine Learning](https://www.edx.org/course/data-science-machine-learning-2)| Harvard| 8 weeks | 2-4 hours per week | self-paced | Basic CS
 
 ## Advanced CS
 
