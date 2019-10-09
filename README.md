@@ -262,8 +262,6 @@ Courses | Duration | Effort | Prerequisites
 [Deep Learning (Specialisation)](https://www.coursera.org/specializations/deep-learning) | 3 months | 11 hours per week | tensorflow, convolutional neural network, artificial neural network,  deep learning
 [Advanced Data Science with IBM Specialisation](https://www.coursera.org/specializations/advanced-data-science-ibm)| 2 months | 14 hours per week| data science, IOT, deep learning, Apache Spark
 [Internet of Things (Specialisation)](https://www.coursera.org/specializations/internet-of-things) | 30 weeks | 1-5 hours/week | strong programming
-[Cloud Computing (Specialisation)](https://www.coursera.org/specializations/cloud-computing) | 30 weeks | 2-6 hours/week | C++ programming
-[Full Stack Web Development (Specialisation)](https://www.coursera.org/specializations/full-stack) | 27 weeks | 2-6 hours/week | programming, databases
 [Cybersecurity (Specialisation)](https://www.coursera.org/specializations/cyber-security)| 5 months | 6 hours per week | sofware testing, cryptography, usability, penetration testing
 
 
