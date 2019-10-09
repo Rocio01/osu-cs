@@ -262,6 +262,7 @@ Courses | Duration | Effort | Prerequisites
 [Deep Learning (Specialisation)](https://www.coursera.org/specializations/deep-learning) | 3 months | 11 hours per week | tensorflow, convolutional neural network, artificial neural network,  deep learning
 [Advanced Data Science with IBM Specialisation](https://www.coursera.org/specializations/advanced-data-science-ibm)| 2 months | 14 hours per week| data science, IOT, deep learning, Apache Spark
 [Internet of Things (Specialisation)](https://www.coursera.org/specializations/internet-of-things) | 30 weeks | 1-5 hours/week | strong programming
+[C# Programming for Unity Game Development (Specialisation)](https://www.coursera.org/specializations/programming-unity-game-development)| 5 months | 6 hours per week | video game development, C#, Unity, game programming
 [Cybersecurity (Specialisation)](https://www.coursera.org/specializations/cyber-security)| 5 months | 6 hours per week | sofware testing, cryptography, usability, penetration testing
 
 
