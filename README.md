@@ -254,32 +254,16 @@ Depending on the course, you may be able to utilize the Capstone as your Final P
 Note that doing a Specialization with the Capstone at the end always costs money.
 So if you don't wish to spend money or use the Capstone as your Final, it may be possible to take the courses in the Specialization for free by manually searching for them, but not all allow this.
 
+**`Refine this list once specialisation/ final year project is chosen`**
+
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Machine Learning (Specialisation)](https://www.coursera.org/specializations/machine-learning)| 8 months | 7 hours per week | Data clustering algorithms, machine learning, classification algorithms
 [Deep Learning (Specialisation)](https://www.coursera.org/specializations/deep-learning) | 3 months | 11 hours per week | tensorflow, convolutional neural network, artificial neural network,  deep learning
 [Advanced Data Science with IBM Specialisation](https://www.coursera.org/specializations/advanced-data-science-ibm)| 2 months | 14 hours per week| data science, IOT, deep learning, Apache Spark
-[Robotics (Specialisation)](https://www.coursera.org/specializations/robotics) | 26 weeks | 2-5 hours/week | linear algebra, calculus, programming, probability
 [Internet of Things (Specialisation)](https://www.coursera.org/specializations/internet-of-things) | 30 weeks | 1-5 hours/week | strong programming
 [Cloud Computing (Specialisation)](https://www.coursera.org/specializations/cloud-computing) | 30 weeks | 2-6 hours/week | C++ programming
 [Full Stack Web Development (Specialisation)](https://www.coursera.org/specializations/full-stack) | 27 weeks | 2-6 hours/week | programming, databases
 [Cybersecurity (Specialisation)](https://www.coursera.org/specializations/cyber-security)| 5 months | 6 hours per week | sofware testing, cryptography, usability, penetration testing
-## Pro CS
-
-After completing the requirements of the curriculum above, you will have completed the equivalent of a full bachelor's degree in Computer Science, or quite close to one.
-You can stop in the Advanced CS section, but the next step to completing your studies is to develop skills and knowledge in a specific domain.
-Many of these courses are graduate-level.
-
-Choose one or more of the following **specializations**:
-- [Mastering Software Development in R Specialization](https://www.coursera.org/specializations/r) by Johns Hopkins University
-- [Artificial Intelligence Engineer Nanodegree](https://www.udacity.com/ai) by IBM, Amazon, and Didi
-- [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009) by kaggle
-- [Cybersecurity MicroMasters](https://www.edx.org/micromasters/ritx-cybersecurity) by the Rochester Institute of Technology
-- [Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) by Google
-
-These aren't the only specializations you can choose. Check the following websites for **more options**:
-- edX: [xSeries](https://www.edx.org/xseries)
-- Coursera: [Specializations](https://www.coursera.org/specializations)
-- Udacity: [Nanodegree](https://www.udacity.com/nanodegree)
 
 
