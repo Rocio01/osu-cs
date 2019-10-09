@@ -138,7 +138,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Building Scalable Java Microservices with Spring Boot and Spring Cloud](https://www.coursera.org/learn/google-cloud-java-spring/home/welcome) | Google Cloud | 15 hours | 6-8 hours per week | self-paced | Basic Java
 [Parallel, Concurrent, and Distributed Programming in Java Specialization](https://www.coursera.org/specializations/pcdp) | Rice | 2 months | 10 hours per week | self-paced | Basic Java
 [Data Science: Machine Learning](https://www.edx.org/course/data-science-machine-learning-2)| Harvard| 8 weeks | 2-4 hours per week | self-paced | Basic CS
-[Computational Neuroscience](https://www.coursera.org/learn/computational-neuroscience)| U o W | 30 hours | self-paced| self=paced | none
+[Computational Neuroscience](https://www.coursera.org/learn/computational-neuroscience)| U o W | 30 hours | self-paced| self-paced | none
 
 ## Advanced CS
 
