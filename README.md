@@ -35,7 +35,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none
 [Introduction to Computer Science and Programming using Python (Part 1)](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)) | MIT | 9 weeks | 15 hours/week | high school algebra
-[Computational Thinking and problem solving](https://www.coursera.org/learn/computational-thinking-problem-solving/home/welcome)| Penn | 4 weeks  | 3-6 hours per week | self-paced | none
+[Computational thinking and problem solving](https://www.coursera.org/learn/computational-thinking-problem-solving/home/welcome)| Penn | 4 weeks  | 3-6 hours per week | self-paced | none
 
 
 ## CS50 Extension Courses
