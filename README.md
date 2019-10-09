@@ -35,9 +35,6 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none
 [Introduction to Computer Science and Programming using Python (Part 1)](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)) | MIT | 9 weeks | 15 hours/week | high school algebra
-[Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
-[Computational Thinking and problem solving](https://www.coursera.org/learn/computational-thinking-problem-solving/home/welcome)| Penn | 4 weeks  | 3-6 hours per week | self-paced | none
-
 
 ## CS50 Extension Courses
 
@@ -79,6 +76,8 @@ Courses | School| Duration | Effort | Frequency |  Prerequisites
 [Introduction to Mathemetical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Stanford | 9 Weeks | 23 hours| Self-paced |
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | YT  | - | - | - | pre-calculus
 [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0) ([alt](http://ulaff.net/)) | UT of Austin | 15 weeks | 8 hours/week | - | Essence of Linear Algebra
+[Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
+[Computational Thinking and problem solving](https://www.coursera.org/learn/computational-thinking-problem-solving/home/welcome)| Penn | 4 weeks  | 3-6 hours per week | self-paced | none
 
 ---
 
@@ -171,6 +170,7 @@ Courses | School | Duration | Effort | Prerequisites
 [LAFF - On Programming for Correctness](https://www.edx.org/course/laff-on-programming-for-correctness) | UT of Austin | 7 weeks | 6 hours/week | linear algebra
 [Introduction to Parallel Programming](https://classroom.udacity.com/courses/cs344) ([alt](https://www.youtube.com/playlist?list=PLGvfHSgImk4aweyWlhBXNF6XISY3um82_))| Udacity | 12 weeks | - | C, algorithms
 [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)| Udacity | 8 weeks | 6 hours/week | software engineering in Java
+[Building scalable Java Microservices](https://www.coursera.org/learn/google-cloud-java-spring/home/welcome) | Google Cloud | 3 weeks | 6-8 hours per week | Prior Java experience
 
 ### Advanced math
 
@@ -246,6 +246,23 @@ Courses| School | Duration | Effort | Prerequisites
 [Introduction to Formal Concept Analysis](https://www.coursera.org/learn/formal-concept-analysis) | NRU o HE| 6 weeks | 4-6 hours/week | logic, probability
 [Game Theory](https://www.coursera.org/learn/game-theory-1) | Stanford | 8 weeks | x hours/week | mathematical thinking, probability, calculus
 
+### Advanced applications
+
+These Coursera Specializations all end with a Capstone project.
+Depending on the course, you may be able to utilize the Capstone as your Final Project for this Computer Science curriculum.
+Note that doing a Specialization with the Capstone at the end always costs money.
+So if you don't wish to spend money or use the Capstone as your Final, it may be possible to take the courses in the Specialization for free by manually searching for them, but not all allow this.
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Robotics (Specialization)](https://www.coursera.org/specializations/robotics) | 26 weeks | 2-5 hours/week | linear algebra, calculus, programming, probability
+[Data Mining (Specialization)](https://www.coursera.org/specializations/data-mining) | 30 weeks | 2-5 hours/week | machine learning
+[Big Data (Specialization)](https://www.coursera.org/specializations/big-data) | 30 weeks | 3-5 hours/week | none
+[Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | 30 weeks | 1-5 hours/week | strong programming
+[Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | 30 weeks | 2-6 hours/week | C++ programming
+[Full Stack Web Development (Specialization)](https://www.coursera.org/specializations/full-stack) | 27 weeks | 2-6 hours/week | programming, databases
+[Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week | none
+[Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 29 weeks | 4-5 hours/week | One year programming experience
 ## Pro CS
 
 After completing the requirements of the curriculum above, you will have completed the equivalent of a full bachelor's degree in Computer Science, or quite close to one.
