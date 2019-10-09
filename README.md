@@ -263,7 +263,7 @@ Courses | Duration | Effort | Prerequisites
 [Internet of Things (Specialisation)](https://www.coursera.org/specializations/internet-of-things) | 30 weeks | 1-5 hours/week | strong programming
 [Cloud Computing (Specialisation)](https://www.coursera.org/specializations/cloud-computing) | 30 weeks | 2-6 hours/week | C++ programming
 [Full Stack Web Development (Specialisation)](https://www.coursera.org/specializations/full-stack) | 27 weeks | 2-6 hours/week | programming, databases
-[Cybersecurity (Specialisation)](https://www.coursera.org/specializations/cyber-security)| % months | 6 hours per week | sofware testing, cryptography, usability, penetration testing
+[Cybersecurity (Specialisation)](https://www.coursera.org/specializations/cyber-security)| 5 months | 6 hours per week | sofware testing, cryptography, usability, penetration testing
 ## Pro CS
 
 After completing the requirements of the curriculum above, you will have completed the equivalent of a full bachelor's degree in Computer Science, or quite close to one.
