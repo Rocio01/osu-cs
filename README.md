@@ -279,7 +279,7 @@ Courses | Duration | Effort | Prerequisites
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Blockchain - University of California, Irvine](https://www.coursera.org/specializations/uci-blockchain) | 2 months | 9 hours per week | Beginner level)
+[Blockchain - University of California, Irvine](https://www.coursera.org/specializations/uci-blockchain) | 2 months | 9 hours per week | Beginner level
 [Blockchain - University of Buffalo](https://www.coursera.org/specializations/blockchain)| 2 months | 12 hours per week | smart contract , ethereum , blockchains , solidity
 [Blockchain revolution for the enterprise](https://www.coursera.org/specializations/blockchain-revolution-enterprise)| 2 months | 12 hours per week |
 
