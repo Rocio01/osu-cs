@@ -16,7 +16,7 @@ This is a curated list of free courses from reputable universities like MIT, Sta
 
 ## Summary
 
-The OSU curriculum is a **complete education in computer science** using online materials initially based on the OSSU, MIT OCW and OSCS syllabi. As per the OSSU's mandate, <em>"The courses themselves are among the very best in the world, often coming from Harvard, Princeton, MIT, etc."</em> The aim being to take the best elements of these open source courses in order to provide the framework for a comprehensive 4-year undergraduate Computer Science Degree syllabus. 
+The OSU curriculum is a **complete education in computer science** using online materials initially based on the OSSU, MIT OCW and OSCS syllabi. As per the OSSU's mandate, <em>"The courses themselves are among the very best in the world, often coming from Harvard, Princeton, MIT, etc."</em> The aim being to take the best elements of these open source courses in order to provide the framework for a comprehensive 4-year undergraduate Computer Science Degree syllabus.
 <br><br>Please note, this syllabus is largely forked from the OSSU and Forrest Knight OSCS syllabuses. I've taken what I consider to be the best elements of both and have added other courses from the MIT OCW courselist in alignment with my own interests i.e. I've added extra modules from the MIT OCW, pertinent to how I want to shape my own syllabus etc.  <br><br>I've also looked at the [6-3 MIT catalog](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) and the general MIT OCW [course list](https://ocw.mit.edu/courses/find-by-number/) and also this [list](http://catalog.mit.edu/subjects/6/) in order to put together a curriculum that reflects my interests and educational needs (hence a lot of the graduate courses towards the end of the syllabus). <br><br>One way to appraoch this OSU Computer Science Degree syllabus, which I highly recommend, is to do what I have done and use an existing open source syllabus (or that of the OSSU or OSCS) that satisfies the demands of a full degree, and create your own Open Source Degree Syllabus and tailor it to your own needs!
 Refer to [Course Info](./COURSEINFO.md) for general details on what is involved in the syllabus.
 
@@ -24,8 +24,8 @@ Refer to [Course Info](./COURSEINFO.md) for general details on what is involved 
 
 ## Why study Computer Science?
 
-Title | Overview 
-:-- | :--: 
+Title | Overview
+:-- | :--:
 [What Do computer Scientists Do](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-26-what-do-computer-scientists-do/) | (from lecture 26 that goes over what Computer Scientists do and  what careers CS students can go into.)
 [Intro lecture to Computer Science](https://www.youtube.com/watch?v=k6U-i4gXkLM) | MIT | (this is the inaugural lecture, with Prof Eric Grimson, of the 6.001 course that serves as a good introduction to studying CS if you just wanta quick overview of what to expect)
 
@@ -134,7 +134,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [The Unix Workbench](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix) | JHU | 4 weeks | 4 hours/week | once a month | none
 [Automated Software Testing(Alt)](https://www.edx.org/course/automated-software-testing-unit-testing-coverage-criteria-and-design-for-testability) | TUDelft | 5 weeks | 3-5 hours per week | self-paced | none
 [UML Class Diagrams for Software Engineering](https://www.edx.org/course/uml-class-diagrams-for-software-engineering-2) | Ku Leuven | 3 weeks | 4-5 hours per week | self-paced | none
-[Kotlin for Java developers](https://www.coursera.org/learn/kotlin-for-java-developers/home/info) | Jetbrains | 19 hours | 7 hours per week | self-paced | Java basics 
+[Kotlin for Java developers](https://www.coursera.org/learn/kotlin-for-java-developers/home/info) | Jetbrains | 19 hours | 7 hours per week | self-paced | Java basics
 [Building Scalable Java Microservices with Spring Boot and Spring Cloud](https://www.coursera.org/learn/google-cloud-java-spring/home/welcome) | Google Cloud | 15 hours | 6-8 hours per week | self-paced | Basic Java
 [Parallel, Concurrent, and Distributed Programming in Java Specialization](https://www.coursera.org/specializations/pcdp) | Rice | 2 months | 10 hours per week | self-paced | Basic Java
 [Computational Neuroscience](https://www.coursera.org/learn/computational-neuroscience)| U o W | 30 hours | self-paced| self-paced | none
@@ -261,6 +261,11 @@ Courses | Duration | Effort | Prerequisites
 [Machine Learning (Specialisation)](https://www.coursera.org/specializations/machine-learning)| 8 months | 7 hours per week | Data clustering algorithms, machine learning, classification algorithms
 [Deep Learning (Specialisation)](https://www.coursera.org/specializations/deep-learning) | 3 months | 11 hours per week | tensorflow, convolutional neural network, artificial neural network,  deep learning
 [Advanced Data Science with IBM Specialisation](https://www.coursera.org/specializations/advanced-data-science-ibm)| 2 months | 14 hours per week| data science, IOT, deep learning, Apache Spark
-[C# Programming for Unity Game Development (Specialisation)](https://www.coursera.org/specializations/programming-unity-game-development)| 5 months | 6 hours per week | video game development, C#, Unity, game programming
-
+[IBM AI Engineering](https://www.coursera.org/professional-certificates/ai-engineer)| 2 months | 12 hours per week| data science, deep learning, artificial intelligence, machine learning
+[IBM Applied Engineering](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)| 2 months| 13 hours per week | data science, deep learning, artificial intelligence, machine learning, Watson AI
+[Advanced Machine Learning (Specialisation)](https://www.coursera.org/specializations/aml)|Flexible|  set your own deadlines|
+[C# Programming for Unity Game Development (Specialisation)](https://www.coursera.org/specializations/programming-unity-game-de::velopment)| 5 months | 6 hours per week | video game development, C#, Unity, game programming
+[Unity XR: How to build AR and VR apps](https://www.coursera.org/specializations/unity-xr)| 4 months | 5 hours per week| xr, ar, vr, mr, mobile apps, hand-held ar
+[Blockchain revolution for the enterprise](https://www.coursera.org/specializations/blockchain-revolution-enterprise)| 2 months | 12 hours per week |
+[Blockchain](https://www.coursera.org/specializations/blockchain)| 2 months | 12 hours per week | smart contract | ethereum | blockchains | solidity
 
