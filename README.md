@@ -265,6 +265,7 @@ Courses | Duration | Effort | Prerequisites
 [IBM Applied Engineering](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)| 2 months| 13 hours per week | data science, deep learning, artificial intelligence, machine learning, Watson AI
 [Advanced Machine Learning (Specialisation)](https://www.coursera.org/specializations/aml)|Flexible|  set your own deadlines|
 [C# Programming for Unity Game Development (Specialisation)](https://www.coursera.org/specializations/programming-unity-game-de::velopment)| 5 months | 6 hours per week | video game development, C#, Unity, game programming
+[Unity 3D Artist (Specialisation)](https://www.coursera.org/specializations/unity-3d-artist)| 4 months | 4 hours per week | asset creation and management, light, reflection and post processing effects, scene interactions, character setup and animation
 [Unity XR: How to build AR and VR apps](https://www.coursera.org/specializations/unity-xr)| 4 months | 5 hours per week| xr, ar, vr, mr, mobile apps, hand-held ar
 [Blockchain revolution for the enterprise](https://www.coursera.org/specializations/blockchain-revolution-enterprise)| 2 months | 12 hours per week |
 [Blockchain](https://www.coursera.org/specializations/blockchain)| 2 months | 12 hours per week | smart contract | ethereum | blockchains | solidity
