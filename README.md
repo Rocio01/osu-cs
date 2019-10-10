@@ -254,7 +254,7 @@ Depending on the course, you may be able to utilize the Capstone as your Final P
 Note that doing a Specialization with the Capstone at the end always costs money.
 So if you don't wish to spend money or use the Capstone as your Final, it may be possible to take the courses in the Specialization for free by manually searching for them, but not all allow this.
 
-**`Refine this list once specialisation/ final year project is chosen`**
+**`Refine this list once specialisation/ final year project is chosen NB: This list is a refelction of my own specialisation interests (please refer to EDX/ Coursera/ MIT OCW for more specialisations)`**
 
 ## AI/ ML route
 
