@@ -262,7 +262,7 @@ Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Machine Learning (Specialisation)](https://www.coursera.org/specializations/machine-learning)| 8 months | 7 hours per week | Data clustering algorithms, machine learning, classification algorithms
 [Deep Learning (Specialisation)](https://www.coursera.org/specializations/deep-learning) | 3 months | 11 hours per week | tensorflow, convolutional neural network, artificial neural network,  deep learning
-[Advanced Data Science with IBM Specialisation](https://www.coursera.org/specializations/advanced-data-science-ibm)| 2 months | 14 hours per week| data science, IOT, deep learning, Apache Spark
+[Advanced Data Science with IBM (Specialisation)](https://www.coursera.org/specializations/advanced-data-science-ibm)| 2 months | 14 hours per week| data science, IOT, deep learning, Apache Spark
 [IBM AI Engineering](https://www.coursera.org/professional-certificates/ai-engineer)| 2 months | 12 hours per week| data science, deep learning, artificial intelligence, machine learning
 [IBM Applied Engineering](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)| 2 months| 13 hours per week | data science, deep learning, artificial intelligence, machine learning, Watson AI
 [Advanced Machine Learning (Specialisation)](https://www.coursera.org/specializations/aml)|Flexible|  set your own deadlines|
