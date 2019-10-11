@@ -76,7 +76,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 Courses | School| Duration | Effort | Frequency |  Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Introduction to Mathemetical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Stanford | 9 Weeks | 23 hours| Self-paced |
-[Precalculus](https://www.edx.org/course/precalculus-asux-mat170x)| ASU | 15 weeks | 9-10 hours per week| high school math 
+[Precalculus](https://www.edx.org/course/precalculus-asux-mat170x)| ASU | 15 weeks | 9-10 hours per week| - | high school math 
 [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) | YT  | - | - | - | none
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | YT  | - | - | - | pre-calculus
 [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0) ([alt](http://ulaff.net/)) | UT of Austin | 15 weeks | 8 hours/week | - | Essence of Linear Algebra
