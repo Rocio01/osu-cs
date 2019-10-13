@@ -273,7 +273,7 @@ Courses | Duration | Effort | Prerequisites
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[C# Programming for Unity Game Development (Specialisation)](https://www.coursera.org/specializations/programming-unity-game-de::velopment)| 5 months | 6 hours per week | video game development, C#, Unity, game programming
+[C# Programming for Unity Game Development (Specialisation)](https://www.coursera.org/specializations/programming-unity-game-development)| 5 months | 6 hours per week | video game development, C#, Unity, game programming
 [Unity 3D Artist (Specialisation)](https://www.coursera.org/specializations/unity-3d-artist)| 4 months | 4 hours per week | asset creation and management, light, reflection and post processing effects, scene interactions, character setup and animation
 [Unity XR: How to build AR and VR apps](https://www.coursera.org/specializations/unity-xr)| 4 months | 5 hours per week| xr, ar, vr, mr, mobile apps, hand-held ar
 
