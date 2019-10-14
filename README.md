@@ -47,28 +47,6 @@ Courses |School | Duration  | Effort | Prerequisites
 [CS50 Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)| Harvardx | 12 weeks | 6-9 hours per week | CS50
 [CS50 Mobile Development with React-Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)|Harvardx |  12 week/11 lectures | 6-9 hours per week | CS50
 
-
-## Programming
-
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
-[Introduction to Computational thinking and data science (Part 2)](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)) | MIT | 9 weeks | 15 hours/week | high school algebra
-[Java Programming: Solving Problems with Software](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming)| Duke | 4 weeks | 4-8 hours/week | twice a month | none
-[Java Programming: Arrays, Lists, and Structured Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming-arrays-lists-data)| Duke | 4 weeks | 4-8 hours/week | twice a month | Java Programming: Solving Problems with Software
-[Object Oriented Programming in Java](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fobject-oriented-java)| Duke | 6 weeks | 4-6 hours/week | every week | Java Programming: Arrays, Lists, and Structured Data
-[Data Structures and Performance](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fdata-structures-optimizing-performance)| Duke | 6 weeks | 6-10 hours/week | every week | Object Oriented Programming in Java
-[Java Programming: Principles of Software Design](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming-design-principles) | Duke | 4 weeks | 4-8 hours/week | twice a month | Java Programming: Arrays, Lists, and Structured Data
-[Java Programming: Build a Recommendation System](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming-recommender) | Duke | 4 weeks | 3-6 hours/week | once a month | Java Programming: Principles of Software Design
-[Programming Languages, Part A](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages) | UW | 5 weeks | 8-16 hours/week | once a month | Object Oriented Programming in Java
-[Programming Languages, Part B](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages-part-b) | UW | 3 weeks | 8-16 hours/week | once a month | Programming Languages, Part A
-[Programming Languages, Part C](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages-part-c) | UW | 3 weeks | 8-16 hours/week | once a month | Programming Languages, Part B
-
-#### Readings
-- **Required** to learn about monads, laziness, purity: [Learn You a Haskell for a Great Good!](http://learnyouahaskell.com/)
-  - **Note**: probably the best resource to learn Haskell: [Haskell Programming from First Principles](http://haskellbook.com/) `paid`
-- **Required**, to learn about logic programming, backtracking, unification: [Learn Prolog Now!](http://lpn.swi-prolog.org/lpnpage.php?pageid=top)
-
-
 ## Math
 
 ### pre-requisites
@@ -91,6 +69,69 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 weeks | 6-10 hours/week | self-paced | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
 [Introduction to Probability and Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprobability-intro) | Duke | 5 weeks | 5-7 hours/week | twice a month | none
 [Intro to Statistics ](https://www.udacity.com/course/intro-to-statistics--st101) | Udacity | 8 weeks | 5-7 hours/week | self-paced | none
+
+
+
+## Programming
+
+Courses | School | Duration | Effort | Frequency | Prerequisites
+:-- | :--: | :--: | :--: | :--: | :--:
+[Introduction to Computational thinking and data science (Part 2)](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)) | MIT | 9 weeks | 15 hours/week | high school algebra
+[Java Programming: Solving Problems with Software](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming)| Duke | 4 weeks | 4-8 hours/week | twice a month | none
+[Java Programming: Arrays, Lists, and Structured Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming-arrays-lists-data)| Duke | 4 weeks | 4-8 hours/week | twice a month | Java Programming: Solving Problems with Software
+[Object Oriented Programming in Java](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fobject-oriented-java)| Duke | 6 weeks | 4-6 hours/week | every week | Java Programming: Arrays, Lists, and Structured Data
+[Data Structures and Performance](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fdata-structures-optimizing-performance)| Duke | 6 weeks | 6-10 hours/week | every week | Object Oriented Programming in Java
+[Java Programming: Principles of Software Design](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming-design-principles) | Duke | 4 weeks | 4-8 hours/week | twice a month | Java Programming: Arrays, Lists, and Structured Data
+[Java Programming: Build a Recommendation System](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming-recommender) | Duke | 4 weeks | 3-6 hours/week | once a month | Java Programming: Principles of Software Design
+[Programming Languages, Part A](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages) | UW | 5 weeks | 8-16 hours/week | once a month | Object Oriented Programming in Java
+[Programming Languages, Part B](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages-part-b) | UW | 3 weeks | 8-16 hours/week | once a month | Programming Languages, Part A
+[Programming Languages, Part C](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages-part-c) | UW | 3 weeks | 8-16 hours/week | once a month | Programming Languages, Part B
+
+#### Readings
+- **Required** to learn about monads, laziness, purity: [Learn You a Haskell for a Great Good!](http://learnyouahaskell.com/)
+  - **Note**: probably the best resource to learn Haskell: [Haskell Programming from First Principles](http://haskellbook.com/) `paid`
+- **Required**, to learn about logic programming, backtracking, unification: [Learn Prolog Now!](http://lpn.swi-prolog.org/lpnpage.php?pageid=top)
+## GIR/ AUS courses
+### Advanced systems
+
+**Topics covered**:
+`digital signaling`
+`combinational logic`
+`CMOS technologies`
+`sequential logic`
+`finite state machines`
+`processor instruction sets`
+`caches`
+`pipelining`
+`virtualization`
+`parallel processing`
+`virtual memory`
+`synchronization primitives`
+`system call interface`
+`and more`
+These courses are part of my General Institute Requirements (GIRs) and Advanced Undergraduate Subjects (AUS)
+
+Courses | School | Duration | Effort | Frequency | Prerequisites
+:-- | :--: | :--: | :--: | :--: | :--:
+[Reverse Engineering the Mind: Brain and Cognitive sciences (panel discussion)](ups://www.youtube.com/watch?v=5spI5HVgBhM)| MIT | 80 mins| 1 session| Panel discussion| none
+[Computational Neuroscience](https://www.coursera.org/learn/computational-neuroscience)| U o W | 30 hours | self-paced| self-paced | none
+[Foundations of Computational and Systems Biology](oWiLgO7LLJV6ZCWXac)| MIT | 22 sessions| 80 mins per session | self-paced | (AUS) see [MIT OCW](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-201/)  for additional paperwork/ coursework
+[Computation Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/)| MIT | 26 sessions| 45-60 mins per session | self-paced| (GIR) [YT playlist](https://www.youtube.com/watch?v=7P-LGEJS3A8&list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu)
+[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)| MIT <sup>**1**</sup> | 13 weeks | 5 hours/week |Self-paced | Calculus 1C
+[Circuits and Electronics](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/video-lectures/)| MIT | 26 sessions| 40 - 50 mins per session|  self-paced| none
+[Computation Structures 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0) | MIT | 10 weeks | 6 hours/week | electricity, magnetism
+[Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x) | MIT | 10 weeks | 6 hours/week | Computation Structures 1
+[Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0) | MIT | 10 weeks | 6 hours/week | Computation Structures 2
+
+**<sup>1</sup> Note**:
+These courses assume knowledge of basic physics.
+([Why?](FAQ.md#why-is-the-curriculum-missing-some-pre-requisites))
+If you are struggling, you can find a physics MOOC or utilize the materials from Khan Academy:
+[Khan Academy - Physics](https://www.khanacademy.org/science/physics)
+
+
+<sup>**1**</sup>: Students struggling with MIT Math for CS can consider taking the [Discrete Mathematics Specialization](https://www.coursera.org/specializations/discrete-mathematics) first.
+It is more interactive but less comprehensive, and it costs money to unlock full interactivity.
 
 
 ## Systems
@@ -135,21 +176,6 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Kotlin for Java developers](https://www.coursera.org/learn/kotlin-for-java-developers/home/info) | Jetbrains | 19 hours | 7 hours per week | self-paced | Java basics
 [Building Scalable Java Microservices with Spring Boot and Spring Cloud](https://www.coursera.org/learn/google-cloud-java-spring/home/welcome) | Google Cloud | 15 hours | 6-8 hours per week | self-paced | Basic Java
 [Parallel, Concurrent, and Distributed Programming in Java Specialization](https://www.coursera.org/specializations/pcdp) | Rice | 2 months | 10 hours per week | self-paced | Basic Java
-
-## GIR/ AUS courses
-
-These courses are primarily in Computational Neuroscience and Computational and  Systems Biology as part of my General Institute Requirements (GIRs) and Advanced Undergraduate Subjects (AUS)
-
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
-[Reverse Engineering the Mind: Brain and Cognitive sciences (panel discussion)](ups://www.youtube.com/watch?v=5spI5HVgBhM)| MIT | 80 mins| 1 session| Panel discussion| none
-[Computational Neuroscience](https://www.coursera.org/learn/computational-neuroscience)| U o W | 30 hours | self-paced| self-paced | none
-[Foundations of Computational and Systems Biology](oWiLgO7LLJV6ZCWXac)| MIT | 22 sessions| 80 mins per session | self-paced | (AUS) see [MIT OCW](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-201/)  for additional paperwork/ coursework
-[Computation Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/)| MIT | 26 sessions| 45-60 mins per session | self-paced| (GIR) [YT playlist](https://www.youtube.com/watch?v=7P-LGEJS3A8&list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu)
-[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)| MIT <sup>**1**</sup> | 13 weeks | 5 hours/week |Self-paced | Calculus 1C
-
-<sup>**1**</sup>: Students struggling with MIT Math for CS can consider taking the [Discrete Mathematics Specialization](https://www.coursera.org/specializations/discrete-mathematics) first.
-It is more interactive but less comprehensive, and it costs money to unlock full interactivity.
 
 ## Advanced CS
 
@@ -198,37 +224,6 @@ Courses | School | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--: | :--:
 [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) | MIT | 13 weeks | 12 hours/week | MIT Calculus 1C
 [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) | MIT | 18 weeks | 12 hours/week | Multivariable Calculus
-
-### Advanced systems
-
-**Topics covered**:
-`digital signaling`
-`combinational logic`
-`CMOS technologies`
-`sequential logic`
-`finite state machines`
-`processor instruction sets`
-`caches`
-`pipelining`
-`virtualization`
-`parallel processing`
-`virtual memory`
-`synchronization primitives`
-`system call interface`
-`and more`
-
-Courses | School |Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--: | :--:
-[Circuits and Electronics](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/video-lectures/)| MIT | 26 sessions| 40 - 50 mins per session|  self-paced| none
-[Computation Structures 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0) | MIT | 10 weeks | 6 hours/week | electricity, magnetism
-[Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x) | MIT | 10 weeks | 6 hours/week | Computation Structures 1
-[Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0) | MIT | 10 weeks | 6 hours/week | Computation Structures 2
-
-**<sup>1</sup> Note**:
-These courses assume knowledge of basic physics.
-([Why?](FAQ.md#why-is-the-curriculum-missing-some-pre-requisites))
-If you are struggling, you can find a physics MOOC or utilize the materials from Khan Academy:
-[Khan Academy - Physics](https://www.khanacademy.org/science/physics)
 
 ### Advanced theory
 
