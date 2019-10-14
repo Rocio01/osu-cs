@@ -183,7 +183,7 @@ Courses | School | Duration | Effort | Prerequisites
 [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)| Udacity | 8 weeks | 6 hours/week | software engineering in Java
 [Building scalable Java Microservices](https://www.coursera.org/learn/google-cloud-java-spring/home/welcome) | Google Cloud | 3 weeks | 6-8 hours per week | Prior Java experience
 
-## Math pre-requisites
+### Math pre-requisites
 
 Courses | School| Duration | Effort | Frequency |  Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
