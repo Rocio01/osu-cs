@@ -61,14 +61,10 @@ Courses | School| Duration | Effort | Frequency |  Prerequisites
 [Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
 ---
 
+### core math courses
+
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | MIT | 12 weeks | 6-10 hours/week | self-paced | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
-[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | MIT | 15 weeks | 6-10 hours/week | self-paced | Calculus 1A: Differentiation
-[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0)| MIT | 8 weeks | 6-10 hours/week | self-paced | Calculus 1B: Integration
-[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 weeks | 6-10 hours/week | self-paced | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
-[Introduction to Probability and Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprobability-intro) | Duke | 5 weeks | 5-7 hours/week | twice a month | none
-[Intro to Statistics ](https://www.udacity.com/course/intro-to-statistics--st101) | Udacity | 8 weeks | 5-7 hours/week | self-paced | none
 
 
 
@@ -116,14 +112,16 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Reverse Engineering the Mind: Brain and Cognitive sciences (panel discussion)](ups://www.youtube.com/watch?v=5spI5HVgBhM)| MIT | 80 mins| 1 session| Panel discussion| none
 [Computational Neuroscience](https://www.coursera.org/learn/computational-neuroscience)| U o W | 30 hours | self-paced| self-paced | none
 [Foundations of Computational and Systems Biology](oWiLgO7LLJV6ZCWXac)| MIT | 22 sessions| 80 mins per session | self-paced | (AUS) see [MIT OCW](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-201/)  for additional paperwork/ coursework
-[Computation Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/)| MIT | 26 sessions| 45-60 mins per session | self-paced| (GIR) [YT playlist](https://www.youtube.com/watch?v=7P-LGEJS3A8&list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu)
-[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)| MIT <sup>**1**</sup> | 13 weeks | 5 hours/week |Self-paced | Calculus 1C
-[Circuits and Electronics](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/video-lectures/)| MIT | 26 sessions| 40 - 50 mins per session|  self-paced| none
+[Computation Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/)| MIT | 26 sessions| 45-60 mins per session | self-paced| (GIR) [YT playlist](https://www.youtube.com/watch?v=7P-LGEJS3A8&list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu)[Circuits and Electronics](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/video-lectures/)| MIT | 26 sessions| 40 - 50 mins per session|  self-paced| none
 [Computation Structures 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0) | MIT | 10 weeks | 6 hours/week | electricity, magnetism
 [Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x) | MIT | 10 weeks | 6 hours/week | Computation Structures 1
 [Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0) | MIT | 10 weeks | 6 hours/week | Computation Structures 2
 [Automata, Computability and Complexity](https://www.youtube.com/watch?v=vhTlazaGAF8&list=PLmUkKyGlHupqtANK5Pmo1gjLlmW1pF1q7)| MIT | 23 sessions | 90 mins per session | self-paced | none
 [Theory of Computation](https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2006/)| MIT | 6 assignments | - | self-paced | graduate level
+[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)| MIT <sup>**1**</sup> | 13 weeks | 5 hours/week |Self-paced | Calculus 1C
+[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | MIT | 12 weeks | 6-10 hours/week | self-paced | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
+[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | MIT | 15 weeks | 6-10 hours/week | self-paced | Calculus 1A: Differentiation
+[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0)| MIT | 8 weeks | 6-10 hours/week | self-paced | Calculus 1B: Integration
 
 **<sup>1</sup> Note**:
 These courses assume knowledge of basic physics.
