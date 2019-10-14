@@ -48,7 +48,7 @@ Courses |School | Duration  | Effort | Prerequisites
 [CS50 Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)| Harvardx | 12 weeks | 6-9 hours per week | CS50
 [CS50 Mobile Development with React-Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)|Harvardx |  12 week/11 lectures | 6-9 hours per week | CS50
 
-## Programming
+## Core Programming
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
