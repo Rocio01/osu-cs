@@ -33,6 +33,7 @@ Title | Overview
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
+[Computer Science 101](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/about)| Stanford | - | - | self-paced introductory course
 [Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none
 [Introduction to Computer Science and Programming using Python (Part 1)](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)) | MIT | 9 weeks | 15 hours/week | high school algebra
 [Computational thinking and problem solving](https://www.coursera.org/learn/computational-thinking-problem-solving/home/welcome)| Penn | 4 weeks  | 3-6 hours per week | self-paced | none
@@ -63,6 +64,7 @@ Courses | School| Duration | Effort | Frequency |  Prerequisites
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Introduction to Computational thinking and data science (Part 2)](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)) | MIT | 9 weeks | 15 hours/week | high school algebra
+[Programming Methodology (Java)](https://see.stanford.edu/Course/CS106A/190)| Stanford | 28 lectures | 40-50 mins appx per session| self-paced | Stanford CS 101 
 [Introduction to Programming in Java](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)| MIT | 4 weeks | 2 sessions per week| 1 hour per session | none
 [Introduction to C and C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-introduction-to-c-and-c-january-iap-2013/)| MIT |4 weeks | 2 sessions per week| 1 hour per session | none
 [Effective programming in C and C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/)| MIT | 10 lectures | 3 sessions per week| 2 hours per session 
