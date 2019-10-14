@@ -17,7 +17,7 @@ This is a curated list of free courses from reputable universities like MIT, Sta
 ## Summary
 
 The OSU curriculum is a **complete education in computer science** using online materials initially based on the OSSU, MIT OCW and OSCS syllabi. As per the OSSU's mandate, <em>"The courses themselves are among the very best in the world, often coming from Harvard, Princeton, MIT, etc."</em> The aim being to take the best elements of these open source courses in order to provide the framework for a comprehensive 4-year undergraduate Computer Science Degree syllabus.
-<br><br>Please note, this syllabus is largely forked from the OSSU and Forrest Knight OSCS syllabuses. I've taken what I consider to be the best elements of both and have added other courses from the MIT OCW courselist in alignment with my own interests i.e. I've added extra modules from the MIT OCW, pertinent to how I want to shape my own syllabus etc.  <br><br>I've also looked at the [6-3 MIT catalog](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) and the general MIT OCW [course list](https://ocw.mit.edu/courses/find-by-number/) and also this [list](http://catalog.mit.edu/subjects/6/) in order to put together a curriculum that reflects my interests and educational needs (hence a lot of the graduate courses towards the end of the syllabus). <br><br>One way to appraoch this OSU Computer Science Degree syllabus, which I highly recommend, is to do what I have done and use an existing open source syllabus (or that of the OSSU or OSCS) that satisfies the demands of a full degree, and create your own Open Source Degree Syllabus and tailor it to your own needs!
+<br><br>Please note, this syllabus is largely forked from the OSSU and Forrest Knight OSCS syllabuses. I've taken what I consider to be the best elements of both and have added other courses from the MIT OCW courselist in alignment with my own interests i.e. I've added extra modules from the MIT OCW, pertinent to how I want to shape my own syllabus i.e. I am particularly interested in AI, neuroscience, computational biology and MAthemetics in relation to the study of computer science.  <br><br>I've also looked at the [6-3 MIT catalog](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) and the general MIT OCW [course list](https://ocw.mit.edu/courses/find-by-number/) and also this [list](http://catalog.mit.edu/subjects/6/) in order to put together a curriculum that reflects my interests and educational needs (hence a lot of the graduate courses towards the end of the syllabus). <br><br>One way to appraoch this OSU Computer Science Degree syllabus, which I highly recommend, is to do what I have done and use an existing open source syllabus (or that of the OSSU or OSCS) that satisfies the demands of a full degree, and create your own Open Source Degree Syllabus and tailor it to your own needs!
 Refer to [Course Info](./COURSEINFO.md) for general details on what is involved in the syllabus.
 
 ## Introduction to Computer Science
@@ -47,9 +47,7 @@ Courses |School | Duration  | Effort | Prerequisites
 [CS50 Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)| Harvardx | 12 weeks | 6-9 hours per week | CS50
 [CS50 Mobile Development with React-Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)|Harvardx |  12 week/11 lectures | 6-9 hours per week | CS50
 
-## Math
-
-### pre-requisites
+## Math pre-requisites
 
 Courses | School| Duration | Effort | Frequency |  Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
