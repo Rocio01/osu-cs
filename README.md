@@ -122,6 +122,8 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Computation Structures 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0) | MIT | 10 weeks | 6 hours/week | electricity, magnetism
 [Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x) | MIT | 10 weeks | 6 hours/week | Computation Structures 1
 [Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0) | MIT | 10 weeks | 6 hours/week | Computation Structures 2
+[Automata, Computability and Complexity](https://www.youtube.com/watch?v=vhTlazaGAF8&list=PLmUkKyGlHupqtANK5Pmo1gjLlmW1pF1q7)| MIT | 23 sessions | 90 mins per session | self-paced | none
+[Theory of Computation](https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2006/)| MIT | 6 assignments | - | self-paced | graduate level
 
 **<sup>1</sup> Note**:
 These courses assume knowledge of basic physics.
