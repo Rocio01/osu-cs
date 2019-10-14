@@ -48,17 +48,6 @@ Courses |School | Duration  | Effort | Prerequisites
 [CS50 Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)| Harvardx | 12 weeks | 6-9 hours per week | CS50
 [CS50 Mobile Development with React-Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)|Harvardx |  12 week/11 lectures | 6-9 hours per week | CS50
 
-## Math pre-requisites
-
-Courses | School| Duration | Effort | Frequency |  Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
-[Introduction to Mathemetical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Stanford | 9 Weeks | 23 hours| Self-paced |
-[Precalculus](https://www.edx.org/course/precalculus-asux-mat170x)| ASU | 15 weeks | 9-10 hours per week| - | high school math 
-[Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) | YT  | - | - | - | high school math
-[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | YT  | - | - | - | pre-calculus
-[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0) ([alt](http://ulaff.net/)) | UT of Austin | 15 weeks | 8 hours/week | - | Essence of Linear Algebra
-[Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
-
 ## Programming
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
@@ -193,6 +182,18 @@ Courses | School | Duration | Effort | Prerequisites
 [Introduction to Parallel Programming](https://classroom.udacity.com/courses/cs344) ([alt](https://www.youtube.com/playlist?list=PLGvfHSgImk4aweyWlhBXNF6XISY3um82_))| Udacity | 12 weeks | - | C, algorithms
 [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)| Udacity | 8 weeks | 6 hours/week | software engineering in Java
 [Building scalable Java Microservices](https://www.coursera.org/learn/google-cloud-java-spring/home/welcome) | Google Cloud | 3 weeks | 6-8 hours per week | Prior Java experience
+
+## Math pre-requisites
+
+Courses | School| Duration | Effort | Frequency |  Prerequisites
+:-- | :--: | :--: | :--: | :--: | :--:
+[Introduction to Mathemetical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Stanford | 9 Weeks | 23 hours| Self-paced |
+[Precalculus](https://www.edx.org/course/precalculus-asux-mat170x)| ASU | 15 weeks | 9-10 hours per week| - | high school math 
+[Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) | YT  | - | - | - | high school math
+[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | YT  | - | - | - | pre-calculus
+[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0) ([alt](http://ulaff.net/)) | UT of Austin | 15 weeks | 8 hours/week | - | Essence of Linear Algebra
+[Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
+
 
 ### Advanced math
 
