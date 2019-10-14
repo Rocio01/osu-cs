@@ -76,7 +76,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 Courses | School| Duration | Effort | Frequency |  Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Introduction to Mathemetical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Stanford | 9 Weeks | 23 hours| Self-paced |
-[Precalculus](https://www.edx.org/course/precalculus-asux-mat170x)| ASU | 15 weeks | 9-10 hours per week| - | high school math 
+[Precalculus](https://www.edx.org/course/precalculus-asux-mat170x)| ASU | 15 weeks | 9-10 hours per week| - | high school math
 [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) | YT  | - | - | - | high school math
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | YT  | - | - | - | pre-calculus
 [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0) ([alt](http://ulaff.net/)) | UT of Austin | 15 weeks | 8 hours/week | - | Essence of Linear Algebra
@@ -142,7 +142,7 @@ These courses are primarily in Computational Neuroscience and Computational and 
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-[Reverse Engineering the Mind: Brain and Cognitive sciences (panel discussion)](ups://www.youtube.com/watch?v=5spI5HVgBhM)| MIT | 80 mins| 1 session| Panel discussion| none
+[Reverse Engineering the Mind: Brain and Cognitive sciences (panel discussion)](https://www.youtube.com/watch?v=5spI5HVgBhM)| MIT | 80 mins| 1 session| Panel discussion| none
 [Computational Neuroscience](https://www.coursera.org/learn/computational-neuroscience)| U o W | 30 hours | self-paced| self-paced | none
 [Foundations of Computational and Systems Biology](oWiLgO7LLJV6ZCWXac)| MIT | 22 sessions| 80 mins per session | self-paced | (AUS) see [MIT OCW](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-201/)  for additional paperwork/ coursework
 [Computation Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/)| MIT | 26 sessions| 45-60 mins per session | self-paced| (GIR) [YT playlist](https://www.youtube.com/watch?v=7P-LGEJS3A8&list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu)
