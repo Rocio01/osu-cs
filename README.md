@@ -91,10 +91,6 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 weeks | 6-10 hours/week | self-paced | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
 [Introduction to Probability and Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprobability-intro) | Duke | 5 weeks | 5-7 hours/week | twice a month | none
 [Intro to Statistics ](https://www.udacity.com/course/intro-to-statistics--st101) | Udacity | 8 weeks | 5-7 hours/week | self-paced | none
-[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)| MIT <sup>**1**</sup> | 13 weeks | 5 hours/week |Self-paced | Calculus 1C
-
-<sup>**1**</sup>: Students struggling with MIT Math for CS can consider taking the [Discrete Mathematics Specialization](https://www.coursera.org/specializations/discrete-mathematics) first.
-It is more interactive but less comprehensive, and it costs money to unlock full interactivity.
 
 
 ## Systems
@@ -128,7 +124,7 @@ Courses | School| Duration | Effort | Prerequisites
 [Database Management Essentials](https://www.coursera.org/learn/database-management) | CU | 7 weeks | 4-6 hours/week | twice a month | basic programming & CS knowledge
 
 
-## Auxiliary courses
+## Auxiliary CS courses
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
@@ -139,10 +135,22 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Kotlin for Java developers](https://www.coursera.org/learn/kotlin-for-java-developers/home/info) | Jetbrains | 19 hours | 7 hours per week | self-paced | Java basics
 [Building Scalable Java Microservices with Spring Boot and Spring Cloud](https://www.coursera.org/learn/google-cloud-java-spring/home/welcome) | Google Cloud | 15 hours | 6-8 hours per week | self-paced | Basic Java
 [Parallel, Concurrent, and Distributed Programming in Java Specialization](https://www.coursera.org/specializations/pcdp) | Rice | 2 months | 10 hours per week | self-paced | Basic Java
+
+## GIR/ AUS courses
+
+These courses are primarily in Computational Neuroscience and Computational and  Systems Biology as part of my General Institute Requirements (GIRs) and Advanced Undergraduate Subjects (AUS)
+
+Courses | School | Duration | Effort | Frequency | Prerequisites
+:-- | :--: | :--: | :--: | :--: | :--:
 [Computational Neuroscience](https://www.coursera.org/learn/computational-neuroscience)| U o W | 30 hours | self-paced| self-paced | none
+[Foundations of Computational and Systems Biology](oWiLgO7LLJV6ZCWXac)| MIT | 22 sessions| 80 mins per session | self-paced | (AUS) see [MIT OCW](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-201/)  for additional paperwork/ coursework
+[Computation Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/)| MIT | 26 sessions| 45-60 mins per session | self-paced| (GIR) [YT playlist](https://www.youtube.com/watch?v=7P-LGEJS3A8&list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu)
+[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)| MIT <sup>**1**</sup> | 13 weeks | 5 hours/week |Self-paced | Calculus 1C
+
+<sup>**1**</sup>: Students struggling with MIT Math for CS can consider taking the [Discrete Mathematics Specialization](https://www.coursera.org/specializations/discrete-mathematics) first.
+It is more interactive but less comprehensive, and it costs money to unlock full interactivity.
 
 ## Advanced CS
-
 
 After completing **every required course** in Core CS, students should choose a subset of courses from Advanced CS based on interest.
 Not every course from a subcategory needs to be taken.
