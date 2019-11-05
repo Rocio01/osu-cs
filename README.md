@@ -106,22 +106,12 @@ If you are struggling, you can find a physics MOOC or utilize the materials from
 It is more interactive but less comprehensive, and it costs money to unlock full interactivity.
 
 
-## Systems
-
-Courses | School | Duration | Effort | Frequency | Notes
-:-- | :--: | :--: | :--: | :--: | :--:
-[Build a Modern Computer from First Principles: From Nand to Tetris](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fbuild-a-computer) | University of Jerusalem | 6 weeks | 5 hours/week | twice a month | basic programming knowledge
-[Build a Modern Computer from First Principles: From Nand to Tetris II](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fnand2tetris2) | University of Jerusalem | 6 weeks | 10-15 hours/week | once a month | Build a Modern Computer from First Principles: From Nand to Tetris
-[Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923)| Georgia Tech | 8 weeks | 5-8 hours/week | self-paced | Build a Modern Computer from First Principles: From Nand to Tetris II
-[ Hack the Kernel](https://www.ops-class.org/)| ops-class.org | 15 weeks | 6 hours/week | Replace course textbook with [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) | algorithms
-
-
 ## Theory
 
 Courses | School | Duration | Effort | Frequency | Notes
 :-- | :--: | :--: | :--: | :--: | :--:
 [Computer Science: Algorithms, Theory, and Machines](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcs-algorithms-theory-machines) | Princeton | 10 weeks | 2-5 hours/week | once a month | Calculus 1A (all), basic programming
-Multicore Programming Primer| MIT | 31 sessions | self-paced | [MIT OCW lecture notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-multicore-programming-primer-january-iap-2007/index.htm), [YT video lectures](https://www.youtube.com/watch?v=vhIwuNJzVG4&list=PLE638294EA3288272)
+Multicore Programming Primer| MIT | 31 sessions | self-paced | - | [MIT OCW lecture notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-multicore-programming-primer-january-iap-2007/index.htm), [YT video lectures](https://www.youtube.com/watch?v=vhIwuNJzVG4&list=PLE638294EA3288272)
 [Algorithms, Part I](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part1) | Princeton | 6 weeks | 6-12 hours/week | once a month | Computer Science: Algorithms, Theory, and Machines
 [Algorithms, Part II](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part2) | Princeton | 6 weeks | 6-12 hours/week | once a month | Algorithms, Part I
 
@@ -135,8 +125,6 @@ Courses | School| Duration | Effort | Notes
 Creating Video Games| MIT | 45 sessions | self-paced | [MIT OCW](https://ocw.mit.edu/courses/comparative-media-studies-writing/cms-611j-creating-video-games-fall-2014/), [YT video lectures](https://www.youtube.com/watch?v=pfDfriSjFbY&list=PLUl4u3cNGP61V4W6yRm1Am5zI94m33dXk)
 Computer Graphics| MIT | [video lectures](https://www.youtube.com/watch?v=t7g2oaNs-c8&list=PLQ3UicqQtfNuKZjdA3fY1_X9gXn13JLlW)  | [MIT OCW lecture notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/) | C++ or Java, linear algebra
 [Cryptography I](https://www.coursera.org/course/crypto)| Stanford | 6 weeks | 5-7 hours/week | linear algebra, probability
-[Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | UBC | 6 weeks | 8-10 hours/week | Software Construction - Object-Oriented Design
-[Database Management Essentials](https://www.coursera.org/learn/database-management) | CU | 7 weeks | 4-6 hours/week | twice a month | basic programming & CS knowledge
 
 
 ## Auxiliary CS courses
