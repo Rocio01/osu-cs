@@ -53,8 +53,7 @@ Courses |School | Duration  | Effort | Prerequisites
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Introduction to Computational thinking and data science (Part 2)](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)) | MIT | 9 weeks | 15 hours/week | high school algebra
-[Programming Methodology (Java)](https://see.stanford.edu/Course/CS106A/190)| Stanford | 28 lectures | 40-50 mins appx per session| self-paced | Stanford CS 101 
-[Introduction to Programming in Java](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)| MIT | 4 weeks | 2 sessions per week| 1 hour per session | none
+Introduction to Programming in Java| MIT | 4 weeks | 2 sessions per week| 1 hour per session | [Video Lectures](https://www.youtube.com/watch?v=oqnLQVFaqYI&list=PLXqaWKDQpdPn4UJ2fOFxl6Yl_DC51FFUL), [MIT lecture notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
 [Introduction to C and C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-introduction-to-c-and-c-january-iap-2013/)| MIT |4 weeks | 2 sessions per week| 1 hour per session | none
 [Effective programming in C and C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/)| MIT | 10 lectures | 3 sessions per week| 2 hours per session 
 [Practical programming in C](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/)| MIT weeks | 3 weeks| 5 sessions per week| 90 mins per session | none
@@ -122,6 +121,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Computer Science: Algorithms, Theory, and Machines](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcs-algorithms-theory-machines) | Princeton | 10 weeks | 2-5 hours/week | once a month | Calculus 1A (all), basic programming
+Multicore Programming Primer| MIT | 31 sessions | self-paced | [MIT OCW lecture notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-multicore-programming-primer-january-iap-2007/index.htm), [YT video lectures](https://www.youtube.com/watch?v=vhIwuNJzVG4&list=PLE638294EA3288272)
 [Algorithms, Part I](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part1) | Princeton | 6 weeks | 6-12 hours/week | once a month | Computer Science: Algorithms, Theory, and Machines
 [Algorithms, Part II](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part2) | Princeton | 6 weeks | 6-12 hours/week | once a month | Algorithms, Part I
 
@@ -132,7 +132,8 @@ Courses | School| Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:| :--:
 [Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) | Stanford | 12 weeks | 8-12 hours/week | some programming, basic CS |
 [Machine Learning](https://www.coursera.org/learn/machine-learning)| Stanford | 11 weeks | 4-6 hours/week | linear algebra
-[Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x) | University of San Diego | 6 weeks | 12 hours/week | C++ or Java, linear algebra
+Creating Video Games| MIT | 45 sessions | self-paced | [MIT OCW](https://ocw.mit.edu/courses/comparative-media-studies-writing/cms-611j-creating-video-games-fall-2014/), [YT video lectures](https://www.youtube.com/watch?v=pfDfriSjFbY&list=PLUl4u3cNGP61V4W6yRm1Am5zI94m33dXk)
+Computer Graphics| MIT | [video lectures](https://www.youtube.com/watch?v=t7g2oaNs-c8&list=PLQ3UicqQtfNuKZjdA3fY1_X9gXn13JLlW)  | [MIT OCW lecture notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/) | C++ or Java, linear algebra
 [Cryptography I](https://www.coursera.org/course/crypto)| Stanford | 6 weeks | 5-7 hours/week | linear algebra, probability
 [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | UBC | 6 weeks | 8-10 hours/week | Software Construction - Object-Oriented Design
 [Database Management Essentials](https://www.coursera.org/learn/database-management) | CU | 7 weeks | 4-6 hours/week | twice a month | basic programming & CS knowledge
