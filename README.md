@@ -226,7 +226,7 @@ Courses| School | Duration | Effort | Notes
 [Introduction to Formal Concept Analysis](https://www.coursera.org/learn/formal-concept-analysis) | NRU o HE| 6 weeks | 4-6 hours/week | logic, probability
 [Game Theory](https://www.coursera.org/learn/game-theory-1) | Stanford | 8 weeks | x hours/week | mathematical thinking, probability, calculus
 
-### Advanced applications
+## Specializations
 
 These Coursera Specializations all end with a Capstone project.
 Depending on the course, you may be able to utilize the Capstone as your Final Project for this Computer Science curriculum.
