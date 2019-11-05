@@ -31,7 +31,7 @@ Title | Overview
 
 ## Computer Science Basics
 
-Courses | School | Duration | Effort | Frequency | Prerequisites
+Courses | School | Duration | Effort | Frequency | Notes
 :-- | :--: | :--: | :--: | :--: | :--:
 [Computer Science 101](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/about)| Stanford | - | - | self-paced | introductory course
 [Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none
@@ -41,7 +41,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 
 ## CS50 Extension Courses
 
-Courses |School | Duration  | Effort | Prerequisites
+Courses |School | Duration  | Effort | Notes
 :-- | :--: | :--: | :--: | :--:
 [Beyond CS50](https://cs50.harvard.edu/college/beyond/)|Harvardx | 1 week | 11 lectures |  CS50
 [CS50 Web Programming with Python and Javascript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)| Harvardx | 12 weeks | 6-9 hours per week| CS50
@@ -50,7 +50,7 @@ Courses |School | Duration  | Effort | Prerequisites
 
 ## Core Programming
 
-Courses | School | Duration | Effort | Frequency | Prerequisites
+Courses | School | Duration | Effort | Frequency | Notes
 :-- | :--: | :--: | :--: | :--: | :--:
 [Introduction to Computational thinking and data science (Part 2)](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)) | MIT | 9 weeks | 15 hours/week | high school algebra
 Introduction to Programming in Java| MIT | 4 weeks | 2 sessions per week| 1 hour per session | [Video Lectures](https://www.youtube.com/watch?v=oqnLQVFaqYI&list=PLXqaWKDQpdPn4UJ2fOFxl6Yl_DC51FFUL), [MIT lecture notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
@@ -82,7 +82,7 @@ Introduction to Programming in Java| MIT | 4 weeks | 2 sessions per week| 1 hour
 `and more`
 These courses are part of my General Institute Requirements (GIRs) and Advanced Undergraduate Subjects (AUS)
 
-Courses | School | Duration | Effort | Frequency | Prerequisites
+Courses | School | Duration | Effort | Frequency | Notes
 :-- | :--: | :--: | :--: | :--: | :--:
 [Reverse Engineering the Mind: Brain and Cognitive sciences (panel discussion)](https://www.youtube.com/watch?v=5spI5HVgBhM)| MIT | 80 mins| 1 session| Panel discussion| none
 [Introduction to Computational Neuroscience](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-29j-introduction-to-computational-neuroscience-spring-2004/index.htm)| MIT | 26 lectures | 8 problem sets| self-paced | Basic biology, chemistry, and physics. [intro/ review YT playlist](https://www.youtube.com/watch?v=_svW8NV1A6k&list=PLUl4u3cNGP61RTZrT3MIAikp2G5EEvTjf)
@@ -108,7 +108,7 @@ It is more interactive but less comprehensive, and it costs money to unlock full
 
 ## Systems
 
-Courses | School | Duration | Effort | Frequency | Prerequisites
+Courses | School | Duration | Effort | Frequency | Notes
 :-- | :--: | :--: | :--: | :--: | :--:
 [Build a Modern Computer from First Principles: From Nand to Tetris](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fbuild-a-computer) | University of Jerusalem | 6 weeks | 5 hours/week | twice a month | basic programming knowledge
 [Build a Modern Computer from First Principles: From Nand to Tetris II](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fnand2tetris2) | University of Jerusalem | 6 weeks | 10-15 hours/week | once a month | Build a Modern Computer from First Principles: From Nand to Tetris
@@ -118,7 +118,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 
 ## Theory
 
-Courses | School | Duration | Effort | Frequency | Prerequisites
+Courses | School | Duration | Effort | Frequency | Notes
 :-- | :--: | :--: | :--: | :--: | :--:
 [Computer Science: Algorithms, Theory, and Machines](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcs-algorithms-theory-machines) | Princeton | 10 weeks | 2-5 hours/week | once a month | Calculus 1A (all), basic programming
 Multicore Programming Primer| MIT | 31 sessions | self-paced | [MIT OCW lecture notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-multicore-programming-primer-january-iap-2007/index.htm), [YT video lectures](https://www.youtube.com/watch?v=vhIwuNJzVG4&list=PLE638294EA3288272)
@@ -128,7 +128,7 @@ Multicore Programming Primer| MIT | 31 sessions | self-paced | [MIT OCW lecture 
 
 ## Applications
 
-Courses | School| Duration | Effort | Prerequisites
+Courses | School| Duration | Effort | Notes
 :-- | :--: | :--: | :--:| :--:
 [Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) | Stanford | 12 weeks | 8-12 hours/week | some programming, basic CS |
 [Machine Learning](https://www.coursera.org/learn/machine-learning)| Stanford | 11 weeks | 4-6 hours/week | linear algebra
@@ -141,7 +141,7 @@ Computer Graphics| MIT | [video lectures](https://www.youtube.com/watch?v=t7g2oa
 
 ## Auxiliary CS courses
 
-Courses | School | Duration | Effort | Frequency | Prerequisites
+Courses | School | Duration | Effort | Frequency | Notes
 :-- | :--: | :--: | :--: | :--: | :--:
 [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) | Udacity | 1 week | 5 hours/week | self-paced | none
 [The Unix Workbench](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix) | JHU | 4 weeks | 4 hours/week | once a month | none
@@ -174,7 +174,7 @@ If not, or if a student chooses not to take the Capstone, then a separate Final 
 `large-scale software architecture and design`
 `and more`
 
-Courses | School | Duration | Effort | Prerequisites
+Courses | School | Duration | Effort | Notes
 :-- | :--: | :--: | :--: | :--:
 [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)| Stanford | 9 weeks | 6-8 hours/week | none
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| Udacity | 8 weeks | 6 hours/week | Python, object-oriented programming
@@ -186,7 +186,7 @@ Courses | School | Duration | Effort | Prerequisites
 
 ### Math pre-requisites
 
-Courses | School| Duration | Effort | Frequency |  Prerequisites
+Courses | School| Duration | Effort | Frequency |  Notes
 :-- | :--: | :--: | :--: | :--: | :--:
 [Introduction to Mathemetical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Stanford | 9 Weeks | 23 hours| Self-paced |
 [Precalculus](https://www.edx.org/course/precalculus-asux-mat170x)| ASU | 15 weeks | 9-10 hours per week| - | high school math 
@@ -206,7 +206,7 @@ Courses | School| Duration | Effort | Frequency |  Prerequisites
 `probability theory`
 `and more`
 
-Courses | School | Duration | Effort | Prerequisites
+Courses | School | Duration | Effort | Notes
 :-- | :--: | :--: | :--: | :--:
 [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) | MIT | 13 weeks | 12 hours/week | MIT Calculus 1C
 [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) | MIT | 18 weeks | 12 hours/week | Multivariable Calculus
@@ -230,7 +230,7 @@ Courses | School | Duration | Effort | Prerequisites
 `game trees`
 `and more`
 
-Courses| School | Duration | Effort | Prerequisites
+Courses| School | Duration | Effort | Notes
 :-- | :--: | :--: | :--: | :--:
 [Introduction to Logic](https://www.coursera.org/learn/logic-introduction)| Stanford | 10 weeks | 4-8 hours/week | set theory
 [Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+SelfPaced/about) | Stanford| 7 weeks | 10 hours/week | discrete mathematics, logic, algorithms
@@ -249,7 +249,7 @@ So if you don't wish to spend money or use the Capstone as your Final, it may be
 
 ## AI/ ML route
 
-Courses | Duration | Effort | Prerequisites
+Courses | Duration | Effort | Notes
 :-- | :--: | :--: | :--:
 [Machine Learning (Specialisation)](https://www.coursera.org/specializations/machine-learning)| 8 months | 7 hours per week | Data clustering algorithms, machine learning, classification algorithms
 [Deep Learning (Specialisation)](https://www.coursera.org/specializations/deep-learning) | 3 months | 11 hours per week | tensorflow, convolutional neural network, artificial neural network,  deep learning
@@ -260,7 +260,7 @@ Courses | Duration | Effort | Prerequisites
 
 ## Game dev/ Unity route
 
-Courses | Duration | Effort | Prerequisites
+Courses | Duration | Effort | Notes
 :-- | :--: | :--: | :--:
 [C# Programming for Unity Game Development (Specialisation)](https://www.coursera.org/specializations/programming-unity-game-development)| 5 months | 6 hours per week | video game development, C#, Unity, game programming
 [Unity 3D Artist (Specialisation)](https://www.coursera.org/specializations/unity-3d-artist)| 4 months | 4 hours per week | asset creation and management, light, reflection and post processing effects, scene interactions, character setup and animation
@@ -268,7 +268,7 @@ Courses | Duration | Effort | Prerequisites
 
 ## Blockchain route
 
-Courses | Duration | Effort | Prerequisites
+Courses | Duration | Effort | Notes
 :-- | :--: | :--: | :--:
 [Blockchain - University of California, Irvine](https://www.coursera.org/specializations/uci-blockchain) | 2 months | 9 hours per week | Beginner level
 [Blockchain - University of Buffalo](https://www.coursera.org/specializations/blockchain)| 2 months | 12 hours per week | smart contract , ethereum , blockchains , solidity
