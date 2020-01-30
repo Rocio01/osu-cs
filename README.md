@@ -2,7 +2,7 @@
 #### NB This curriculum is my modified version of the [OSSU](https://github.com/ossu/computer-science) and [Open Source Computer Degree syllabus](https://github.com/ForrestKnight/open-source-cs) with extra MIT OCW EECS courses.
 ---
 
-![The Open Source University (The OSU)](http://res.cloudinary.com/dwdu9ukwf/image/upload/v1569761151/osu/osu_6.svg)
+![The Open Source University (The OSU)](https://res.cloudinary.com/dwdu9ukwf/image/upload/v1580407447/osu/simple_osuArtboard_37.png)
 
 <h4 align="center">
 Standing on the shoulders of giants
